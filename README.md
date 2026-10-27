@@ -1,2 +1,6 @@
-# nhap-mon-cnpm-practice
-Repository thuc hanh mon NHap Mon CNPM
+# Repository Thực hành - Nhập môn CNPM
+Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
+
+## Thông tin sinh viên
+- **Họ và tên:** Trương Quốc Thái
+- **Mã số sinh viên:** 25S1080034
